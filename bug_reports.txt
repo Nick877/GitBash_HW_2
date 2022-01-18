@@ -1,0 +1,3 @@
+1) 	bug_report 1
+2) 	bug_report 2
+3) 	bug_report 3
