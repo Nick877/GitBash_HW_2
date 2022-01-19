@@ -1,0 +1,8 @@
+1) Registration:
+- Email
+- Social network
+- Field's validation
+2) Autorization
+- User activated
+- User not activated
+- Field's validation
